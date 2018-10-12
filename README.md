@@ -1,2 +1,5 @@
-# first-coding
-HTML 5
+<html>
+  <body style="color:red;" >
+    Hi, I am the content part
+    </body>
+  </html>
